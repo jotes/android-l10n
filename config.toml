@@ -1,10 +1,10 @@
 [[repo]]
-    org = "mozilla-mobile"
+    org = "jotes"
     name = "android-components"
     branch = "master"
 
 [[repo]]
-    org = "mozilla-mobile"
+    org = "jotes"
     name = "fenix"
     branch = "master"
 
@@ -14,6 +14,6 @@
     branch = "main"
 
 [[repo]]
-    org = "mozilla-lockwise"
+    org = "jotes"
     name = "lockwise-android"
     branch = "master"
